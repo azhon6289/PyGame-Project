@@ -7,4 +7,4 @@
 <img src = "https://github.com/ohern8893/PyGame-Project/blob/master/Game%20Plan/Capture%20Game%20Over.PNG"width = "250 " height = "200">
 <h3> Company: Steelbox Inc.
 <p>  CEO: Oliver Hernandez. Co-CEOs: Andrew Zhong (Me) and Cristopher Matos.</p>
-<h4> Links:https://github.com/azhon6289/PyGame-Project/blob/master/Game%20Plan.zip https://github.com/azhon6289/PyGame-Project/blob/master/Steeled%20Repercussion.zip
+<h4> Links:(.zip files) https://github.com/azhon6289/PyGame-Project/blob/master/Game%20Plan.zip https://github.com/azhon6289/PyGame-Project/blob/master/Steeled%20Repercussion.zip
