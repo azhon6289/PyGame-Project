@@ -8,5 +8,6 @@
 <h3> Company: Steelbox Inc.</h3>
 <p>  CEO: Oliver Hernandez. Co-CEOs: Andrew Zhong (Me) and Cristopher Matos.</p>
 <h4> Links:</h4>
-<a href="https://github.com/azhon6289/PyGame-Project/blob/master/Game%20Plan.zip https://github.com/azhon6289/PyGame-Project/blob/master/Steeled%20Repercussion.zip"></a>
-<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"></a>
+<a href= "https://github.com/azhon6289/PyGame-Project/blob/master/Game%20Plan.zip"></a>
+<a href = "https://github.com/azhon6289/PyGame-Project/blob/master/Steeled%20Repercussion.zip"></a>
+<a href= "http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"></a>
