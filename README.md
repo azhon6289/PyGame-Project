@@ -10,5 +10,5 @@
 <h4> Links:</h4>
 <p> Game Plan: "https://github.com/azhon6289/PyGame-Project/blob/master/Game%20Plan.zip" </p>
 <p> Steeled Repercussion: "https://github.com/azhon6289/PyGame-Project/blob/master/Steeled%20Repercussion.zip" </p>
-<p> PyGame Wheel File: "http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame" </p>
-<p> Installing Python 3.6 and PyGame: "https://youtu.be/_GikMdhAhv0"> </p>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> PyGame Wheel File</a>
+<a href="https://youtu.be/_GikMdhAhv0e"> Installing Python 3.6 and PyGame</a>
