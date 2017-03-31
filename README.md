@@ -8,7 +8,10 @@
 <h3> Company: Steelbox Inc.</h3>
 <p>  CEO: Oliver Hernandez. Co-CEOs: Andrew Zhong (Me) and Cristopher Matos.</p>
 <h4> Links:</h4>
-<p> Game Plan: "https://github.com/azhon6289/PyGame-Project/blob/master/Game%20Plan.zip" </p>
-<p> Steeled Repercussion: "https://github.com/azhon6289/PyGame-Project/blob/master/Steeled%20Repercussion.zip" </p>
+<a href="https://github.com/azhon6289/PyGame-Project/blob/master/Game%20Plan.zip"> Game Plan</a>
+<br>
+<a href="https://github.com/azhon6289/PyGame-Project/blob/master/Steeled%20Repercussion.zip"> Steeled Repercussion Files </a>
+<br>
 <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> PyGame Wheel File</a>
+<br>
 <a href="https://youtu.be/_GikMdhAhv0e"> Installing Python 3.6 and PyGame</a>
